@@ -1,0 +1,113 @@
+name,mainInfo,rightAscension,declination,distance,visualBrightness,apparentDimension,link
+ Messier 1 ,Supernova Remnant M1 (NGC 1952),05 : 34.5 (h:m),+22 : 01 (deg:m),6.3 (kly),8.4 (mag) ,6x4 (arc min),http://www.messier.seds.org/m/m001.html
+ Messier 2 ,Globular Cluster  M2 (NGC 7089),21 : 33.5 (h:m),-00 : 49 (deg:m),37.5 (kly),6.5 (mag) ,16.0 (arc min),http://www.messier.seds.org/m/m002.html
+ Messier 3 ,Globular Cluster  M3 (NGC 5272),13 : 42.2 (h:m),+28 : 23 (deg:m),33.9 (kly),6.2 (mag) ,18.0 (arc min),http://www.messier.seds.org/m/m003.html
+ Messier 4 ,Globular Cluster  M4 (NGC 6121),16 : 23.6 (h:m),-26 : 32 (deg:m),7.2 (kly),5.6 (mag) ,36.0 (arc min),http://www.messier.seds.org/m/m004.html
+ Messier 5 ,Globular Cluster  M5 (NGC 5904),15 : 18.6 (h:m),+02 : 05 (deg:m),24.5 (kly),5.6 (mag) ,23.0 (arc min),http://www.messier.seds.org/m/m005.html
+ Messier 6 ,Open Cluster  M6 (NGC 6405),17 : 40.1 (h:m),-32 : 13 (deg:m),1.6 (kly),4.2 (mag) ,25.0 (arc min),http://www.messier.seds.org/m/m006.html
+ Messier 7 ,Open Cluster  M7 (NGC 6475),17 : 53.9 (h:m),-34 : 49 (deg:m),0.8 (kly),3.3 (mag) ,80.0 (arc min),http://www.messier.seds.org/m/m007.html
+ Messier 8 ,Starforming Nebula M8 (NGC 6523),18 : 03.8 (h:m),-24 : 23 (deg:m),5.2 (kly),6.0 (mag) ,90x40 (arc min),http://www.messier.seds.org/m/m008.html
+ Messier 9 ,Globular Cluster  M9 (NGC 6333),17 : 19.2 (h:m),-18 : 31 (deg:m),25.8 (kly),7.7 (mag) ,12.0 (arc min),http://www.messier.seds.org/m/m009.html
+ Messier 10 ,Globular Cluster  M10 (NGC 6254),16 : 57.1 (h:m),-04 : 06 (deg:m),14.3 (kly),6.6 (mag) ,20.0 (arc min),http://www.messier.seds.org/m/m010.html
+ Messier 11 ,Open Cluster  M11 (NGC 6705),18 : 51.1 (h:m),-06 : 16 (deg:m),6.0 (kly),6.3 (mag) ,14.0 (arc min),http://www.messier.seds.org/m/m011.html
+ Messier 12 ,Globular Cluster  M12 (NGC 6218),16 : 47.2 (h:m),-01 : 57 (deg:m),16.0 (kly),6.7 (mag) ,16.0 (arc min),http://www.messier.seds.org/m/m012.html
+ Messier 13 ,Globular Cluster  M13 (NGC 6205),16 : 41.7 (h:m),+36 : 28 (deg:m),25.1 (kly),5.8 (mag) ,20.0 (arc min),http://www.messier.seds.org/m/m013.html
+ Messier 14 ,Globular Cluster  M14 (NGC 6402),17 : 37.6 (h:m),-03 : 15 (deg:m),30.3 (kly),7.6 (mag) ,11.0 (arc min),http://www.messier.seds.org/m/m014.html
+ Messier 15 ,Globular Cluster M15 (NGC 7078),21 : 30.0 (h:m),+12 : 10 (deg:m),33.6 (kly),6.2 (mag) ,18.0 (arc min),http://www.messier.seds.org/m/m015.html
+ Messier 16 ,"Starforming Nebula M16 (NGC 6611, IC 4703)",18 : 18.8 (h:m),-13 : 47 (deg:m),7.0 (kly),6.4 (mag) ,7.0 (arc min),http://www.messier.seds.org/m/m016.html
+ Messier 17 ,Starforming Nebula  M17 (NGC 6618),18 : 20.8 (h:m),-16 : 11 (deg:m),5.0 (kly),6.0 (mag) ,11.0 (arc min),http://www.messier.seds.org/m/m017.html
+ Messier 18 ,Open Cluster  M18 (NGC 6613),18 : 19.9 (h:m),-17 : 08 (deg:m),4.9 (kly),7.5 (mag) ,9.0 (arc min),http://www.messier.seds.org/m/m018.html
+ Messier 19 ,Globular Cluster  M19 (NGC 6273),17 : 02.6 (h:m),-26 : 16 (deg:m),28.0 (kly),6.8 (mag) ,17.0 (arc min),http://www.messier.seds.org/m/m019.html
+ Messier 20 ,Starforming Nebula  M20 (NGC 6514),18 : 02.6 (h:m),-23 : 02 (deg:m),5.2 (kly),9.0 (mag) ,28.0 (arc min),http://www.messier.seds.org/m/m020.html
+ Messier 21 ,Open Cluster  M21 (NGC 6531),18 : 04.6 (h:m),-22 : 30 (deg:m),4.25 (kly),6.5 (mag) ,13.0 (arc min),http://www.messier.seds.org/m/m021.html
+ Messier 22 ,Globular Cluster  M22 (NGC 6656),18 : 36.4 (h:m),-23 : 54 (deg:m),10.4 (kly),5.1 (mag) ,32.0 (arc min),http://www.messier.seds.org/m/m022.html
+ Messier 23 ,Open Cluster  M23 (NGC 6494),17 : 56.8 (h:m),-19 : 01 (deg:m),2.15 (kly),6.9 (mag) ,27.0 (arc min),http://www.messier.seds.org/m/m023.html
+ Messier 24 ,Milky Way Patch  M24 (IC 4715. contains NGC 6603),18 : 16.9 (h:m),-18 : 29 (deg:m),10.0 (kly),4.6 (mag) ,90 (arc min),http://www.messier.seds.org/m/m024.html
+ Messier 25 ,Open Cluster  M25 (IC 4725),18 : 31.6 (h:m),-19 : 15 (deg:m),2.0 (kly),4.6 (mag) ,32.0 (arc min),http://www.messier.seds.org/m/m025.html
+ Messier 26 ,Open Cluster  M26 (NGC 6694),18 : 45.2 (h:m),-09 : 24 (deg:m),5.0 (kly),8.0 (mag),15.0 (arc min),http://www.messier.seds.org/m/m026.html
+ Messier 27 ,Planetary Nebula  M27 (NGC 6853),19 : 59.6 (h:m),+22 : 43 (deg:m),1.25 (kly),7.4 (mag) ,8.0x5.7 (arc min),http://www.messier.seds.org/m/m027.html
+ Messier 28 ,Globular Cluster  M28 (NGC 6626),18 : 24.5 (h:m),-24 : 52 (deg:m),18.3 (kly),6.8 (mag) ,11.2 (arc min),http://www.messier.seds.org/m/m028.html
+ Messier 29 ,Open Cluster  M29 (NGC 6913),20 : 23.9 (h:m),+38 : 32 (deg:m),4.0 (kly),7.1 (mag) ,7.0 (arc min),http://www.messier.seds.org/m/m029.html
+ Messier 30 ,Globular Cluster M30 (NGC 7099),21 : 40.4 (h:m),-23 : 11 (deg:m),26.1 (kly),7.2 (mag) ,12.0 (arc min),http://www.messier.seds.org/m/m030.html
+ Messier 31 ,Spiral Galaxy  M31 (NGC 224),00 : 42.7 (h:m),+41 : 16 (deg:m),2900 (kly),3.4 (mag) ,178x63 (arc min),http://www.messier.seds.org/m/m031.html
+ Messier 32 ,Elliptical Galaxy  M32 (NGC 221),00 : 42.7 (h:m),+40 : 52 (deg:m),2900 (kly),8.1 (mag) ,8x6 (arc min),http://www.messier.seds.org/m/m032.html
+ Messier 33 ,Spiral Galaxy  M33 (NGC 598),01 : 33.9 (h:m),+30 : 39 (deg:m),3000 (kly),5.7 (mag) ,73x45 (arc min),http://www.messier.seds.org/m/m033.html
+ Messier 34 ,Open Cluster  M34 (NGC 1039),02 : 42.0 (h:m),+42 : 47 (deg:m),1.4 (kly),5.5 (mag) ,35.0 (arc min),http://www.messier.seds.org/m/m034.html
+ Messier 35 ,Open Cluster  M35 (NGC 2168),06 : 08.9 (h:m),+24 : 20 (deg:m),2.8 (kly),5.3 (mag) ,28.0 (arc min),http://www.messier.seds.org/m/m035.html
+ Messier 36 ,Open Cluster  M36 (NGC 1960),05 : 36.1 (h:m),+34 : 08 (deg:m),4.1 (kly),6.3 (mag) ,12.0 (arc min),http://www.messier.seds.org/m/m036.html
+ Messier 37 ,Open Cluster  M37 (NGC 2099),05 : 52.4 (h:m),+32 : 33 (deg:m),4.4 (kly),6.2 (mag) ,24.0 (arc min),http://www.messier.seds.org/m/m037.html
+ Messier 38 ,Open Cluster  M38 (NGC 1912),05 : 28.4 (h:m),+35 : 50 (deg:m),4.2 (kly),7.4 (mag) ,21.0 (arc min),http://www.messier.seds.org/m/m038.html
+ Messier 39 ,Open Cluster  M39 (NGC 7092),21 : 32.2 (h:m),+48 : 26 (deg:m),0.825 (kly),4.6 (mag) ,32.0 (arc min),http://www.messier.seds.org/m/m039.html
+ Messier 40 ,Double Star  M40 (WNC 4),12 : 22.4 (h:m),+58 : 05 (deg:m),1.14 and 0.45 (kly),8.4 (mag) ,0.8 (arc min),http://www.messier.seds.org/m/m040.html
+ Messier 41 ,Open Cluster  M41 (NGC 2287),06 : 46.0 (h:m),-20 : 44 (deg:m),2.3 (kly),4.5 (mag) ,38.0 (arc min),http://www.messier.seds.org/m/m041.html
+ Messier 42 ,Starforming Nebula M42 (NGC 1976),05 : 35.4 (h:m),-05 : 27 (deg:m),1.35 (kly),4.0 (mag) ,85x60 (arc min),http://www.messier.seds.org/m/m042.html
+ Messier 43 ,Starforming Nebula  M43 (NGC 1982),05 : 35.6 (h:m),-05 : 16 (deg:m),1.35 (kly),9.0 (mag) ,20x15 (arc min),http://www.messier.seds.org/m/m043.html
+ Messier 44 ,Open Cluster  M44 (NGC 2632),08 : 40.1 (h:m),+19 : 59 (deg:m),0.577 (kly),3.7 (mag) ,95.0 (arc min),http://www.messier.seds.org/m/m044.html
+ Messier 45 ,Open Cluster  M45 ,03 : 47.0 (h:m),+24 : 07 (deg:m),0.44 (kly),1.6 (mag) ,110.0 (arc min),http://www.messier.seds.org/m/m045.html
+ Messier 46 ,Open Cluster  M46 (NGC 2437),07 : 41.8 (h:m),-14 : 49 (deg:m),5.4 (kly),6.0 (mag) ,27.0 (arc min),http://www.messier.seds.org/m/m046.html
+ Messier 47 ,Open Cluster  M47 (NGC 2422),07 : 36.6 (h:m),-14 : 30 (deg:m),1.6 (kly),5.2 (mag) ,30.0 (arc min),http://www.messier.seds.org/m/m047.html
+ Messier 48 ,Open Cluster  M48 (NGC 2548),08 : 13.8 (h:m),-05 : 48 (deg:m),1.5 (kly),5.5 (mag) ,54.0 (arc min),http://www.messier.seds.org/m/m048.html
+ Messier 49 ,Elliptical Galaxy  M49 (NGC 4472),12 : 29.8 (h:m),+08 : 00 (deg:m),60000 (kly),8.4 (mag) ,9x7.5 (arc min),http://www.messier.seds.org/m/m049.html
+ Messier 50 ,Open Cluster  M50 (NGC 2323),07 : 03.2 (h:m),-08 : 20 (deg:m),3.2 (kly),5.9 (mag) ,16.0 (arc min),http://www.messier.seds.org/m/m050.html
+ Messier 51 ,Spiral Galaxy  M51 (NGC 5194),13 : 29.9 (h:m),+47 : 12 (deg:m),37000 (kly),8.4 (mag) ,11x7 (arc min),http://www.messier.seds.org/m/m051.html
+ Messier 51B  NGC 5195,Irregular Galaxy  M51B (NGC 5195),13 : 30.0 (h:m),+47 : 16 (deg:m),37000 (kly),9.6 (mag),6.4x4.6 (arc min),http://www.messier.seds.org/m/m051b.html
+ Messier 52 ,Open Cluster  M52 (NGC 7654),23 : 24.2 (h:m),+61 : 35 (deg:m),5.0 (kly),7.3 (mag) ,13.0 (arc min),http://www.messier.seds.org/m/m052.html
+ Messier 53 ,Globular Cluster  M53 (NGC 5024),13 : 12.9 (h:m),+18 : 10 (deg:m),58.0 (kly),7.6 (mag) ,13.0 (arc min),http://www.messier.seds.org/m/m053.html
+ Messier 54 ,Globular Cluster  M54 (NGC 6715),18 : 55.1 (h:m),-30 : 29 (deg:m),87.4 (kly),7.6 (mag) ,12.0 (arc min),http://www.messier.seds.org/m/m054.html
+ Messier 55 ,Globular Cluster  M55 (NGC 6809),19 : 40.0 (h:m),-30 : 58 (deg:m),17.3 (kly),6.3 (mag) ,19.0 (arc min),http://www.messier.seds.org/m/m055.html
+ Messier 56 ,Globular Cluster  M56 (NGC 6779),19 : 16.6 (h:m),+30 : 11 (deg:m),32.9 (kly),8.3 (mag) ,8.8 (arc min),http://www.messier.seds.org/m/m056.html
+ Messier 57 ,Planetary Nebula  M57 (NGC 6720),18 : 53.6 (h:m),+33 : 02 (deg:m),2.3 (kly),8.8 (mag) ,1.4x1.0 (arc min),http://www.messier.seds.org/m/m057.html
+ Messier 58 ,Spiral Galaxy  M58 (NGC 4579),12 : 37.7 (h:m),+11 : 49 (deg:m),60000 (kly),9.7 (mag) ,5.5x4.5 (arc min),http://www.messier.seds.org/m/m058.html
+ Messier 59 ,Elliptical Galaxy  M59 (NGC 4621),12 : 42.0 (h:m),+11 : 39 (deg:m),60000 (kly),9.6 (mag) ,5x3.5 (arc min),http://www.messier.seds.org/m/m059.html
+ Messier 60 ,Elliptical Galaxy  M60 (NGC 4649),12 : 43.7 (h:m),+11 : 33 (deg:m),60000 (kly),8.8 (mag) ,7x6 (arc min),http://www.messier.seds.org/m/m060.html
+ Messier 61 ,Spiral Galaxy  M61 (NGC 4303),12 : 21.9 (h:m),+04 : 28 (deg:m),60000 (kly),9.7 (mag) ,6x5.5 (arc min),http://www.messier.seds.org/m/m061.html
+ Messier 62 ,Globular Cluster M62 (NGC 6266),17 : 01.2 (h:m),-30 : 07 (deg:m),22.5 (kly),6.5 (mag) ,15.0 (arc min),http://www.messier.seds.org/m/m062.html
+ Messier 63 ,Spiral Galaxy  M63 (NGC 5055),13 : 15.8 (h:m),+42 : 02 (deg:m),37000 (kly),8.6 (mag) ,10x6 (arc min),http://www.messier.seds.org/m/m063.html
+ Messier 64 ,Spiral Galaxy  M64 (NGC 4826),12 : 56.7 (h:m),+21 : 41 (deg:m),19000 (kly),8.5 (mag) ,9.3x5.4 (arc min),http://www.messier.seds.org/m/m064.html
+ Messier 65 ,Spiral Galaxy  M65 (NGC 3623),11 : 18.9 (h:m),+13 : 05 (deg:m),35000 (kly),9.3 (mag) ,8x1.5 (arc min),http://www.messier.seds.org/m/m065.html
+ Messier 66 ,Spiral Galaxy  M66 (NGC 3627),11 : 20.2 (h:m),+12 : 59 (deg:m),35000 (kly),8.9 (mag) ,8x2.5 (arc min),http://www.messier.seds.org/m/m066.html
+ Messier 67 ,Open Cluster  M67 (NGC 2682),08 : 51.3 (h:m),+11 : 48 (deg:m),2.7 (kly),6.1 (mag) ,30.0 (arc min),http://www.messier.seds.org/m/m067.html
+ Messier 68 ,Globular Cluster  M68 (NGC 4590),12 : 39.5 (h:m),-26 : 45 (deg:m),33.3 (kly),7.8 (mag) ,11.0 (arc min),http://www.messier.seds.org/m/m068.html
+ Messier 69 ,Globular Cluster  M69 (NGC 6637),18 : 31.4 (h:m),-32 : 21 (deg:m),29.7 (kly),7.6 (mag) ,9.8 (arc min),http://www.messier.seds.org/m/m069.html
+ Messier 70 ,Globular Cluster M70 (NGC 6681),18 : 43.2 (h:m),-32 : 18 (deg:m),29.3 (kly),7.9 (mag) ,8.0 (arc min),http://www.messier.seds.org/m/m070.html
+ Messier 71 ,Globular Cluster  M71 (NGC 6838),19 : 53.8 (h:m),+18 : 47 (deg:m),13.0 (kly),8.2 (mag) ,7.2 (arc min),http://www.messier.seds.org/m/m071.html
+ Messier 72 ,Globular Cluster  M72 (NGC 6981),20 : 53.5 (h:m),-12 : 32 (deg:m),55.4 (kly),9.3 (mag) ,6.6 (arc min),http://www.messier.seds.org/m/m072.html
+ Messier 73 ,Group or Asterism of  4 Stars  M73 (NGC 6994),20 : 58.9 (h:m),-12 : 38 (deg:m),2.5 (kly),9.0 (mag) ,2.8 (arc min),http://www.messier.seds.org/m/m073.html
+ Messier 74 ,Spiral Galaxy  M74 (NGC 628),01 : 36.7 (h:m),+15 : 47 (deg:m),35000 (kly),9.4 (mag) ,10.2x9.5 (arc min),http://www.messier.seds.org/m/m074.html
+ Messier 75 ,Globular Cluster  M75 (NGC 6864),20 : 06.1 (h:m),-21 : 55 (deg:m),67.5 (kly),8.5 (mag) ,6.8 (arc min),http://www.messier.seds.org/m/m075.html
+ Messier 76 ,Planetary Nebula M76 (NGC 650/651),01 : 42.4 (h:m),+51 : 34 (deg:m),2.5 (kly),10.1 (mag) ,2.7x1.8 (arc min),http://www.messier.seds.org/m/m076.html
+ Messier 77 ,Spiral Galaxy  M77 (NGC 1068),02 : 42.7 (h:m),-00 : 01 (deg:m),60000 (kly),8.9 (mag) ,7x6 (arc min),http://www.messier.seds.org/m/m077.html
+ Messier 78 ,Starforming Nebula M78 (NGC 2068),05 : 46.7 (h:m),+00 : 03 (deg:m),1.35 (kly),8.3 (mag) ,8x6 (arc min),http://www.messier.seds.org/m/m078.html
+ Messier 79 ,Globular Cluster M79 (NGC 1904),05 : 24.2 (h:m),-24 : 31 (deg:m),42.1 (kly),7.7 (mag) ,9.6 (arc min),http://www.messier.seds.org/m/m079.html
+ Messier 80 ,Globular Cluster  M80 (NGC 6093),16 : 17.0 (h:m),-22 : 59 (deg:m),32.6 (kly),7.3 (mag) ,10.0 (arc min),http://www.messier.seds.org/m/m080.html
+ Messier 81 ,Spiral Galaxy  M81 (NGC 3031),09 : 55.6 (h:m),+69 : 04 (deg:m),12000 (kly),6.9 (mag) ,21x10 (arc min),http://www.messier.seds.org/m/m081.html
+ Messier 82 ,Irregular Galaxy  M82 (NGC 3034),09 : 55.8 (h:m),+69 : 41 (deg:m),12000 (kly),8.4 (mag) ,9x4 (arc min),http://www.messier.seds.org/m/m082.html
+ Messier 83 ,Spiral Galaxy  M83 (NGC 5236),13 : 37.0 (h:m),-29 : 52 (deg:m),15000 (kly),7.6 (mag) ,11x10 (arc min),http://www.messier.seds.org/m/m083.html
+ Messier 84 ,Lenticular (S0) Galaxy  M84 (NGC 4374),12 : 25.1 (h:m),+12 : 53 (deg:m),60000 (kly),9.1 (mag) ,5.0 (arc min),http://www.messier.seds.org/m/m084.html
+ Messier 85 ,Lenticular (S0) Galaxy  M85 (NGC 4382),12 : 25.4 (h:m),+18 : 11 (deg:m),60000 (kly),9.1 (mag) ,7.1x5.2 (arc min),http://www.messier.seds.org/m/m085.html
+ Messier 86 ,Lenticular (S0) Galaxy  M86 (NGC 4406),12 : 26.2 (h:m),+12 : 57 (deg:m),60000 (kly),8.9 (mag) ,7.5x5.5 (arc min),http://www.messier.seds.org/m/m086.html
+ Messier 87 ,Elliptical Galaxy  M87 (NGC 4486),12 : 30.8 (h:m),+12 : 24 (deg:m),60000 (kly),8.6 (mag) ,7.0 (arc min),http://www.messier.seds.org/m/m087.html
+ Messier 88 ,Spiral Galaxy  M88 (NGC 4501),12 : 32.0 (h:m),+14 : 25 (deg:m),60000 (kly),9.6 (mag) ,7x4 (arc min),http://www.messier.seds.org/m/m088.html
+ Messier 89 ,Elliptical Galaxy  M89 (NGC 4552),12 : 35.7 (h:m),+12 : 33 (deg:m),60000 (kly),9.8 (mag) ,4.0 (arc min),http://www.messier.seds.org/m/m089.html
+ Messier 90 ,Spiral Galaxy  M90 (NGC 4569),12 : 36.8 (h:m),+13 : 10 (deg:m),60000 (kly),9.5 (mag) ,9.5x4.5 (arc min),http://www.messier.seds.org/m/m090.html
+ Messier 91 ,Spiral Galaxy  M91 (NGC 4548),12 : 35.4 (h:m),+14 : 30 (deg:m),60000 (kly),10.2 (mag) ,5.4x4.4 (arc min),http://www.messier.seds.org/m/m091.html
+ Messier 92 ,Globular Cluster  M92 (NGC 6341),17 : 17.1 (h:m),+43 : 08 (deg:m),26.7 (kly),6.4 (mag) ,14.0 (arc min),http://www.messier.seds.org/m/m092.html
+ Messier 93 ,Open Cluster  M93 (NGC 2447),07 : 44.6 (h:m),-23 : 52 (deg:m),3.6 (kly),6.0 (mag) ,22.0 (arc min),http://www.messier.seds.org/m/m093.html
+ Messier 94 ,Spiral Galaxy  M94 (NGC 4736),12 : 50.9 (h:m),+41 : 07 (deg:m),14500 (kly),8.2 (mag) ,7x3 (arc min),http://www.messier.seds.org/m/m094.html
+ Messier 95 ,Spiral Galaxy  M95 (NGC 3351),10 : 44.0 (h:m),+11 : 42 (deg:m),38000 (kly),9.7 (mag) ,4.4x3.3 (arc min),http://www.messier.seds.org/m/m095.html
+ Messier 96 ,Spiral Galaxy  M96 (NGC 3368),10 : 46.8 (h:m),+11 : 49 (deg:m),38000 (kly),9.2 (mag) ,6x4 (arc min),http://www.messier.seds.org/m/m096.html
+ Messier 97 ,Planetary Nebula  M97 (NGC 3587),11 : 14.8 (h:m),+55 : 01 (deg:m),2.6 (kly),9.9 (mag) ,3.4x3.3 (arc min),http://www.messier.seds.org/m/m097.html
+ Messier 98 ,Spiral Galaxy  M98 (NGC 4192),12 : 13.8 (h:m),+14 : 54 (deg:m),60000 (kly),10.1 (mag) ,9.5x3.2 (arc min),http://www.messier.seds.org/m/m098.html
+ Messier 99 ,Spiral Galaxy  M99 (NGC 4254),12 : 18.8 (h:m),+14 : 25 (deg:m),60000 (kly),9.9 (mag) ,5.4x4.8 (arc min),http://www.messier.seds.org/m/m099.html
+ Messier 100 ,Spiral Galaxy  M100 (NGC 4321),12 : 22.9 (h:m),+15 : 49 (deg:m),60000 (kly),9.3 (mag) ,7x6 (arc min),http://www.messier.seds.org/m/m100.html
+ Messier 101 ,Spiral Galaxy  M101 (NGC 5457),14 : 03.2 (h:m),+54 : 21 (deg:m),27000 (kly),7.9 (mag) ,22.0 (arc min),http://www.messier.seds.org/m/m101.html
+ Messier 102 ,Lenticular (S0) Galaxy M102 (NGC 5866),15 : 06.5 (h:m),+55 : 46 (deg:m),45000 (kly),9.9 (mag) ,5.2x2.3 (arc min),http://www.messier.seds.org/m/m102.html
+ Messier 103 ,Open Cluster  M103 (NGC 581),01 : 33.2 (h:m),+60 : 42 (deg:m),8.5 (kly),7.4 (mag) ,6.0 (arc min),http://www.messier.seds.org/m/m103.html
+ Messier 104 ,Spiral Galaxy  M104 (NGC 4594),12 : 40.0 (h:m),-11 : 37 (deg:m),50000 (kly),8.0 (mag) ,9x4 (arc min),http://www.messier.seds.org/m/m104.html
+ Messier 105 ,Elliptical Galaxy  M105 (NGC 3379),10 : 47.8 (h:m),+12 : 35 (deg:m),38000 (kly),9.3 (mag) ,2.0 (arc min),http://www.messier.seds.org/m/m105.html
+ Messier 106 ,Spiral Galaxy  M106 (NGC 4258),12 : 19.0 (h:m),+47 : 18 (deg:m),25000 (kly),8.4 (mag) ,19x8 (arc min),http://www.messier.seds.org/m/m106.html
+ Messier 107 ,Globular Cluster  M107 (NGC 6171),16 : 32.5 (h:m),-13 : 03 (deg:m),20.9 (kly),7.9 (mag) ,13.0 (arc min),http://www.messier.seds.org/m/m107.html
+ Messier 108 ,Spiral Galaxy  M108 (NGC 3556),11 : 11.5 (h:m),+55 : 40 (deg:m),45000 (kly),10.0 (mag) ,8x1 (arc min),http://www.messier.seds.org/m/m108.html
+ Messier 109 ,Spiral Galaxy  M109 (NGC 3992),11 : 57.6 (h:m),+53 : 23 (deg:m),55000 (kly),9.8 (mag) ,7x4 (arc min),http://www.messier.seds.org/m/m109.html
+ Messier 109B  NGC 3953 ,Spiral Galaxy  M109B (NGC 3953),11 : 53.8 (h:m),+52 : 20 (deg:m),55000 (kly),10.1 (mag) ,7x4 (arc min),http://www.messier.seds.org/m/m109b.html
+ Messier 110 ,Elliptical Galaxy  M110 (NGC 205),00 : 40.4 (h:m),+41 : 41 (deg:m),2900 (kly),8.5 (mag) ,17x10 (arc min),http://www.messier.seds.org/m/m110.html
